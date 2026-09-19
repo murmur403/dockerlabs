@@ -19,7 +19,7 @@ PASS x
 ```
 
 **Conexion a la shell (terminal 2):**
-bash```
+```bash
 nc 172.17.0.2 6200
 ```
 
