@@ -9,11 +9,12 @@ y escalada de privilegios.
 
 ## 📚 Índice de máquinas
 
-| Máquina | Dificultad | Técnicas principales | Writeup |
-|---------|-----------|----------------------|---------|
-| Vacaciones | Fácil | Hydra, pivot por correo, GTFObins (ruby) | [ver](./vacaciones.md) |
-| Obsession | Fácil | _pendiente_ | [ver](./obsession.md) |
-| Tproot | Medio | _pendiente_ | [ver](./tproot.md) |
+| Máquina | Dificultad | Técnicas principales | Fecha | Writeup |
+|---------|-----------|----------------------|-------|---------|
+| Tproot | Muy Fácil | vsftpd 2.3.4 backdoor (CVE-2011-2523) | 2025-09-19 | [ver](./tproot.md) |
+| Obsession | Muy Fácil | FTP anónimo, Gobuster, Hydra, GTFObins (vim) | 2026-09-25 | [ver](./obsession.md) |
+| Vacaciones | Muy Fácil | Hydra, pivot por correo, GTFObins (ruby) | 2026-09-25 | [ver](./vacaciones.md) |
+
 
 
 
