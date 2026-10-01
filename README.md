@@ -15,6 +15,7 @@ y escalada de privilegios.
 | Obsession | Muy Fácil | FTP anónimo, Gobuster, Hydra, GTFObins (vim) | 2026-09-25 | [ver](./obsession.md) |
 | Vacaciones | Muy Fácil | Hydra, pivot por correo, GTFObins (ruby) | 2026-09-25 | [ver](./vacaciones.md) |
 | BorazuwarahCTF | Muy Fácil | Esteganografía, Hydra, GTFObins (bash) | 2026-09-27 | [ver](./borazuwarahctf.md) |
+| HedgeHog | Muy Fácil | Enumeración web, Hydra, sudo chain | 2026-09-30 | [ver](./hedgehog.md) |
 
 
 
