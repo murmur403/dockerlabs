@@ -17,6 +17,7 @@ y escalada de privilegios.
 | BorazuwarahCTF | Muy Fácil | Esteganografía, Hydra, GTFObins (bash) | 2026-09-27 | [ver](./borazuwarahctf.md) |
 | HedgeHog | Muy Fácil | Enumeración web, Hydra, sudo chain | 2026-09-30 | [ver](./hedgehog.md) |
 | FirstHacking | Muy Fácil | vsftpd 2.3.4 backdoor (CVE-2011-2523) | 2026-10-06 | [ver](./firsthacking.md) |
+| BreakMySSH | Muy Fácil | Fuerza bruta SSH con Hydra | 2026-10-07 | [ver](./breakmyssh.md) |
 
 
 
